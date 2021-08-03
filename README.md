@@ -1,6 +1,6 @@
 ## Hi there !
 
-### I'm a bioinformatician (MSc) 💻 specialized in NGS data analysis 🧬 and pipeline implementation 🔧
+### I'm a bioinformatician (MSc) 💻 specializing in NGS data analysis 🧬 and pipeline implementation 🔧
 
 Currently, my main interests are **building [FAIR](https://www.nature.com/articles/sdata201618) bioinformatics pipelines** using **[Nextflow](https://www.nextflow.io/)** and setting up **FAIR tools** to make **reproducible reasearch work**.   
         

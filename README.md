@@ -17,7 +17,8 @@ I'm looking forward to **using my skills** to **help the research community** an
 ### Work experience overview :
 
 - **2020-now : CNRS, Institute of Human Genetics, Montpellier 🍩**      
-*ChIP-seq, Benchmark, Nextflow, Singularity*
+*ChIP-seq, Benchmark, Nextflow, Singularity*  
+---> see https://gitlab.igh.cnrs.fr/pauline.auffret/ssdsnextflowpipeline
 - **2017-2020 : Ifremer Tahiti 🌴**     
 *De novo assembly and annotation, benchmark, SNP-calling, RNA-seq, snakemake*
 - **2016-2017 : INRAE, Microbiology unit, Clermont-Ferrand 🌋**    

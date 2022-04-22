@@ -21,8 +21,7 @@ I'm looking forward to **using my skills** to **help the research community** an
 Member of the awesome SeBiMER crew ! (Ifremer Bioinformatics Service)  
 *Data management and brokering, FAIR data, Nextflow, assistance, trainings*  
 - **2020-2021 : CNRS, Institute of Human Genetics, Montpellier 🍩**      
-*ChIP-seq, Benchmark, Nextflow, Singularity*  
----> see https://gitlab.igh.cnrs.fr/pauline.auffret/ssdsnextflowpipeline
+*ChIP-seq, SSDS ChiP-Seq, Benchmark, Nextflow, Singularity*  
 - **2017-2020 : Ifremer Tahiti 🌴**     
 *De novo assembly and annotation, benchmark, SNP-calling, RNA-seq, snakemake*
 - **2016-2017 : INRAe, Microbiology unit, Clermont-Ferrand 🌋**    

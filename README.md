@@ -11,9 +11,7 @@ My main fields of expertise are :
 -  **Testing** and **benchmarking tools** 
 - **Helping people** with their bionformatics analyses  and **debugging code!**   
 
-What I love in my job is that I am learning every day !   
-     
-I'm looking forward to **using my skills** to **help the research community** and learning about **machine learning**, **long reads** and **single cell** analysis. 
+I'm looking forward to **using my skills** to **help the research community**.
 
 ### Work experience overview :
 
